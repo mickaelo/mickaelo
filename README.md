@@ -4,10 +4,10 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning TensorFlow and Kibana integration
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🎓 &nbsp; Studying Computer Science, computer programming.
 - 💼 &nbsp; Front-end web developer.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- ☕ &nbsp; Coffee breaks are the base of brainstorming. 
 
 <h3>🛠 Tech Stack</h3>
 
