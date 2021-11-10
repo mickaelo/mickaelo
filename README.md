@@ -6,15 +6,15 @@
 - 🔭 &nbsp; I’m currently learning TensorFlow and Kibana integration
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer Science, computer programming.
-- 💼 &nbsp; Front-end web developer.
+- 💼 &nbsp; Full-stack web developer.
 - ☕ &nbsp; Coffee breaks are the base of brainstorming. 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | React | Docker  
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase | ElasticSearch
-- 🔧 &nbsp; Visual Studio code | Git
+- 💻 &nbsp; Python | React | Docker |NodeJS | Dash
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap  | AntD
+- 🛢 &nbsp; MySQL | Firebase | NoSQL
+- 🔧 &nbsp; Visual Studio code | Git | Postman
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop
 
 </br>
