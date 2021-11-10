@@ -11,7 +11,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | React | Docker |NodeJS | Dash
+- 💻 &nbsp; Python | React | Docker | NodeJS | Dash
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap  | AntD
 - 🛢 &nbsp; MySQL | Firebase | NoSQL
 - 🔧 &nbsp; Visual Studio code | Git | Postman
