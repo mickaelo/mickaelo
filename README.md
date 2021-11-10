@@ -11,11 +11,12 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | React | Docker | NodeJS | Dash
+- 💻 &nbsp; React | Typescript | Docker | NodeJS | Dash | Python
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap  | AntD
 - 🛢 &nbsp; MySQL | Firebase | NoSQL
 - 🔧 &nbsp; Visual Studio code | Git | Postman
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop
+- Some of AWS like Lambda, EC2, Terraform
 
 </br>
 
