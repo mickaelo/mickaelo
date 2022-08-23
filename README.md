@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning TensorFlow and Kibana integration
+- 🔭 &nbsp; I’m currently learning Next JS and Nest JS integration
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer Science, computer programming.
 - 💼 &nbsp; Full-stack web developer.
@@ -16,7 +16,7 @@
 - 🛢 &nbsp; MySQL | Firebase | NoSQL
 - 🔧 &nbsp; Visual Studio code | Git | Postman
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop
-- Some of AWS like Lambda, EC2, Terraform
+- Some of AWS like Lambda, EC2, Azure Devops & Terraform
 
 </br>
 
